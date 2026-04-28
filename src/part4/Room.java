@@ -1,4 +1,4 @@
-package part4.Room;
+package part4;
 
 public class Room {
     private String code = "";
