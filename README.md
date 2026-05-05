@@ -13,8 +13,8 @@ This isn't a passive follow-along. Each part is worked through deliberately, wit
 | Part 1 | Variables, conditionals, loops, methods | ✅ Complete |
 | Part 2 | Repeating functionality, arrays, string handling | ✅ Complete |
 | Part 3 | Lists, files, object-oriented programming intro | ✅ Complete |
-| Part 4 | Object-oriented programming, collections | 🔄 In Progress |
-| Part 5 | Primitive & reference variables, OOP continued | ⬜ Upcoming |
+| Part 4 | Object-oriented programming, collections | ✅ Complete |
+| Part 5 | Primitive & reference variables, OOP continued | 🔄 In Progress  |
 | Part 6 | Interfaces, inheritance | ⬜ Upcoming |
 | Part 7 | Programming paradigms, algorithms | ⬜ Upcoming |
 
