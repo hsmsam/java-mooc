@@ -18,17 +18,14 @@ public class RecordsFromAFile {
                 String name = parts[0];
                 int age = Integer.valueOf(parts[1]);
 
-                if (age > 1) {
+                if (age >= 0) {
                     System.out.println(name + ", age: " + age + " years");
                 } else {
                     System.out.println(name + ", age: " + age + " year");
                 }
-
             }
         } catch (Exception e) {
             System.out.println("Error: " + e.getMessage());
         }
-
-
     }
 }
