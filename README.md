@@ -25,7 +25,7 @@ This isn't a passive follow-along. Each part is worked through deliberately, wit
 ## 🎓 Java Programming I — Complete
 Parts 1–7 of the University of Helsinki Java Programming MOOC, covering foundational and intermediate Java.
 
-**Certificate:** [University of Helsinki — Java Programming I](https://certificates.mooc.fi/validate/258pnivok2)
+**Certificate:** University of Helsinki — Java Programming I *(https://certificates.mooc.fi/validate/258pnivok2)*
 
 ---
 ## Topics Covered So Far
