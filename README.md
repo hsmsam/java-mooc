@@ -16,7 +16,7 @@ This isn't a passive follow-along. Each part is worked through deliberately, wit
 | Part 4 | Object-oriented programming, collections | ✅ Complete |
 | Part 5 | Primitive & reference variables, OOP continued | ✅ Complete |
 | Part 6 | Interfaces, inheritance | ✅ Complete |
-| Part 7 | Programming paradigms, algorithms | 🔄 In Progress |
+| Part 7 | Programming paradigms, algorithms | ✅ Complete |
 
 ---
 
