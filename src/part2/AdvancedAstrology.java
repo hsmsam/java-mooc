@@ -3,7 +3,6 @@ package part2;
 public class AdvancedAstrology {
     public static void main(String[] args) {
         christmasTree(4);
-//        printTriangle(4);
     }
 
     public static void printStars(int number) {
@@ -41,7 +40,7 @@ public class AdvancedAstrology {
 
     public static void christmasTree(int height) {
         int i = 1;
-        int x = height;
+        int x = height - 1;
         int j = 1;
 
 
@@ -52,9 +51,9 @@ public class AdvancedAstrology {
             x--;
             j = j + 2;
         }
-        printSpaces(height - 1);
+        printSpaces(height - 2);
         printStars(3);
-        printSpaces(height - 1);
+        printSpaces(height - 2);
         printStars(3);
     }
 }
