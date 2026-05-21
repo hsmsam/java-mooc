@@ -1,5 +1,5 @@
 # Java MOOC — Hafez Sam
-Coursework and exercises from the [University of Helsinki's Java Programming MOOC](https://java.mooc.fi/) — one of the most rigorous free Java courses available.
+Coursework and exercises from the [University of Helsinki's Java Programming MOOC](https://java-programming.mooc.fi/) — one of the most rigorous free Java courses available.
 This isn't a passive follow-along. Each part is worked through deliberately, with a focus on understanding the *why* behind the code, not just getting it to compile.
 ---
 ## Progress
