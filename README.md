@@ -12,9 +12,9 @@ This isn't a passive follow-along. Each part is worked through deliberately, wit
 | Part 5 | Primitive & reference variables, OOP continued | ✅ Complete |
 | Part 6 | Interfaces, inheritance | ✅ Complete |
 | Part 7 | Programming paradigms, algorithms, larger exercises | ✅ Complete |
-| Part 8 | Hash map and grouping data | 🔄 In Progress |
-| Part 9 | Inheritance | ⬜ Upcoming |
-| Part 10 | Class hierarchies, interfaces | ⬜ Upcoming |
+| Part 8 | Hash map and grouping data | ✅ Complete |
+| Part 9 | Inheritance | ✅ Complete |
+| Part 10 | Class hierarchies, interfaces | 🔄 In Progress |
 | Part 11 | List processing, lambdas, streams | ⬜ Upcoming |
 | Part 12 | Type parameters, ArrayList, hash table | ⬜ Upcoming |
 | Part 13 | UI: Swing and large application design | ⬜ Upcoming |
