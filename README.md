@@ -17,8 +17,8 @@ This isn't a passive follow-along. Each part is worked through deliberately, wit
 | Part 10 | Class hierarchies, interfaces | ✅ Complete |
 | Part 11 | List processing, lambdas, streams | ✅ Complete |
 | Part 12 | Type parameters, ArrayList, hash table | ✅ Complete |
-| Part 13 | UI: Swing and large application design | 🔄 In Progress |
-| Part 14 | Data visualisation and larger applications | ⬜ Upcoming |
+| Part 13 | UI: Swing and large application design | ✅ Complete |
+| Part 14 | Data visualisation and larger applications | ✅ Complete |
 
 ---
 
