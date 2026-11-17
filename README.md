@@ -1,6 +1,6 @@
 # Java MOOC — Hafez Sam
 
-Completed the [University of Helsinki's Java Programming MOOC](https://java-programming.mooc.fi/) — one of the most rigorous free Java courses available, covering foundational through advanced Java across 14 parts.
+Completed the [University of Helsinki's Java Programming MOOC](https://java-programming.mooc.fi/) — a free university Java course, covering foundational through advanced Java across 14 parts.
 
 ---
 
