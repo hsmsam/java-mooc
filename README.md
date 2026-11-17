@@ -57,7 +57,5 @@ Working through 14 parts of structured exercises, building real programs at each
 
 ## What's Next
 
-- Spring Boot
-- SQL & databases
-- RESTful API design
-- Portfolio projects
+I've applied this foundation in my backend projects:
+[fintrack-api](https://github.com/hsmsam/fintrack-api) · [tripmate-api](https://github.com/hsmsam/tripmate-api) · [nba-player-api](https://github.com/hsmsam/nba-player-api)
