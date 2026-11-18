@@ -33,3 +33,9 @@ bin/
 *.class
 *.iml
 .idea/
+### IntelliJ IDEA ###
+.idea/
+*.iml
+
+### macOS ###
+.DS_Store
